@@ -2,7 +2,7 @@
 YAML script aimed to deploy AWS infrastructure, establish a virtual private cloud (VPC) with associated componentsYAML script aimed to deploy AWS infrastructure, establish a virtual private cloud (VPC) with associated components.
 
 
-### Resources Created:
+#### Resources Created:
 1. VPC
 2. InternetGateway
 3.InternetGatewayAttachment
